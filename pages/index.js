@@ -35,7 +35,7 @@ export default function Register() {
     const [isRegistered, setIsRegistered] = useState(false)
     const [emailStatus, setEmailStatus] = useState(false)
   
-  //react form hookssssafddsa
+  //react form hookssssafddsa555
   const {
     register,
     handleSubmit,
